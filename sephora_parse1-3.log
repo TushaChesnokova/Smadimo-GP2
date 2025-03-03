@@ -1,0 +1,405 @@
+api_parsing | 2025-02-28 20:28:40 | INFO | Тестовая запись в лог
+api_parsing | 2025-02-28 20:29:16 | INFO | Тестовая запись в лог
+api_parsing | 2025-02-28 20:33:40 | INFO | Запуск сохранения категорий...
+api_parsing | 2025-02-28 20:34:56 | INFO | Запуск сохранения категорий...
+api_parsing | 2025-02-28 20:34:58 | INFO | Успешно получен список категорий.
+api_parsing | 2025-02-28 20:34:58 | INFO | Сохранено 131 записей в файл categories.csv.
+api_parsing | 2025-02-28 20:34:58 | INFO | Готово!
+api_parsing | 2025-02-28 21:05:29 | INFO | Успешно получен список брендов.
+api_parsing | 2025-02-28 21:05:29 | INFO | Список брендов успешно сохранен в файл brands.csv.
+api_parsing | 2025-02-28 21:39:44 | INFO | Обрабатываем категорию: Makeup (ID: makeup-cosmetics)
+api_parsing | 2025-02-28 21:39:45 | ERROR | Серверная ошибка 500 для категории makeup-cosmetics, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:45 | WARNING | Не удалось получить продукты для категории Makeup.
+api_parsing | 2025-02-28 21:39:45 | INFO | Обрабатываем категорию: Face (ID: face-makeup)
+api_parsing | 2025-02-28 21:39:46 | ERROR | Серверная ошибка 500 для категории face-makeup, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:46 | WARNING | Не удалось получить продукты для категории Face.
+api_parsing | 2025-02-28 21:39:46 | INFO | Обрабатываем категорию: Foundation (ID: foundation-makeup)
+api_parsing | 2025-02-28 21:39:46 | ERROR | Серверная ошибка 500 для категории foundation-makeup, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:46 | WARNING | Не удалось получить продукты для категории Foundation.
+api_parsing | 2025-02-28 21:39:46 | INFO | Обрабатываем категорию: BB & CC Cream (ID: bb-cc-cream-face-makeup)
+api_parsing | 2025-02-28 21:39:47 | ERROR | Серверная ошибка 500 для категории bb-cc-cream-face-makeup, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:47 | WARNING | Не удалось получить продукты для категории BB & CC Cream.
+api_parsing | 2025-02-28 21:39:47 | INFO | Обрабатываем категорию: Tinted Moisturizer (ID: tinted-moisturizer)
+api_parsing | 2025-02-28 21:39:48 | ERROR | Серверная ошибка 500 для категории tinted-moisturizer, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:48 | WARNING | Не удалось получить продукты для категории Tinted Moisturizer.
+api_parsing | 2025-02-28 21:39:48 | INFO | Обрабатываем категорию: Concealer (ID: concealer)
+api_parsing | 2025-02-28 21:39:49 | ERROR | Серверная ошибка 500 для категории concealer, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:49 | WARNING | Не удалось получить продукты для категории Concealer.
+api_parsing | 2025-02-28 21:39:49 | INFO | Обрабатываем категорию: Face Primer (ID: makeup-primer-face-primer)
+api_parsing | 2025-02-28 21:39:49 | ERROR | Серверная ошибка 500 для категории makeup-primer-face-primer, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:49 | WARNING | Не удалось получить продукты для категории Face Primer.
+api_parsing | 2025-02-28 21:39:49 | INFO | Обрабатываем категорию: Setting Spray & Powder (ID: setting-powder-face-powder)
+api_parsing | 2025-02-28 21:39:50 | ERROR | Серверная ошибка 500 для категории setting-powder-face-powder, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:50 | WARNING | Не удалось получить продукты для категории Setting Spray & Powder.
+api_parsing | 2025-02-28 21:39:50 | INFO | Обрабатываем категорию: Highlighter (ID: luminizer-luminous-makeup)
+api_parsing | 2025-02-28 21:39:51 | ERROR | Серверная ошибка 500 для категории luminizer-luminous-makeup, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:51 | WARNING | Не удалось получить продукты для категории Highlighter.
+api_parsing | 2025-02-28 21:39:51 | INFO | Обрабатываем категорию: Contour (ID: contour-palette-brush)
+api_parsing | 2025-02-28 21:39:52 | ERROR | Серверная ошибка 500 для категории contour-palette-brush, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:52 | WARNING | Не удалось получить продукты для категории Contour.
+api_parsing | 2025-02-28 21:39:52 | INFO | Обрабатываем категорию: Color Correct (ID: color-correcting)
+api_parsing | 2025-02-28 21:39:52 | ERROR | Серверная ошибка 500 для категории color-correcting, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:52 | WARNING | Не удалось получить продукты для категории Color Correct.
+api_parsing | 2025-02-28 21:39:52 | INFO | Обрабатываем категорию: Face Sets (ID: complexion-sets)
+api_parsing | 2025-02-28 21:39:53 | ERROR | Серверная ошибка 500 для категории complexion-sets, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:53 | WARNING | Не удалось получить продукты для категории Face Sets.
+api_parsing | 2025-02-28 21:39:53 | INFO | Обрабатываем категорию: Eye (ID: eye-makeup)
+api_parsing | 2025-02-28 21:39:54 | ERROR | Серверная ошибка 500 для категории eye-makeup, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:54 | WARNING | Не удалось получить продукты для категории Eye.
+api_parsing | 2025-02-28 21:39:54 | INFO | Обрабатываем категорию: Eye Palettes (ID: eyeshadow-palettes)
+api_parsing | 2025-02-28 21:39:55 | ERROR | Серверная ошибка 500 для категории eyeshadow-palettes, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:55 | WARNING | Не удалось получить продукты для категории Eye Palettes.
+api_parsing | 2025-02-28 21:39:55 | INFO | Обрабатываем категорию: Mascara (ID: mascara)
+api_parsing | 2025-02-28 21:39:55 | ERROR | Серверная ошибка 500 для категории mascara, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:55 | WARNING | Не удалось получить продукты для категории Mascara.
+api_parsing | 2025-02-28 21:39:55 | INFO | Обрабатываем категорию: Eyeliner (ID: eyeliner)
+api_parsing | 2025-02-28 21:39:56 | ERROR | Серверная ошибка 500 для категории eyeliner, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:56 | WARNING | Не удалось получить продукты для категории Eyeliner.
+api_parsing | 2025-02-28 21:39:56 | INFO | Обрабатываем категорию: Eyebrow (ID: eyebrow-makeup-pencils)
+api_parsing | 2025-02-28 21:39:57 | ERROR | Серверная ошибка 500 для категории eyebrow-makeup-pencils, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:57 | WARNING | Не удалось получить продукты для категории Eyebrow.
+api_parsing | 2025-02-28 21:39:57 | INFO | Обрабатываем категорию: False Eyelashes (ID: fake-eyelashes-false-eyelashes)
+api_parsing | 2025-02-28 21:39:58 | ERROR | Серверная ошибка 500 для категории fake-eyelashes-false-eyelashes, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:58 | WARNING | Не удалось получить продукты для категории False Eyelashes.
+api_parsing | 2025-02-28 21:39:58 | INFO | Обрабатываем категорию: Eyeshadow (ID: eyeshadow)
+api_parsing | 2025-02-28 21:39:58 | ERROR | Серверная ошибка 500 для категории eyeshadow, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:58 | WARNING | Не удалось получить продукты для категории Eyeshadow.
+api_parsing | 2025-02-28 21:39:58 | INFO | Обрабатываем категорию: Eye Primer (ID: eyeshadow-primer-eye-primer)
+api_parsing | 2025-02-28 21:39:59 | ERROR | Серверная ошибка 500 для категории eyeshadow-primer-eye-primer, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:39:59 | WARNING | Не удалось получить продукты для категории Eye Primer.
+api_parsing | 2025-02-28 21:39:59 | INFO | Обрабатываем категорию: Eye Sets (ID: eye-sets)
+api_parsing | 2025-02-28 21:40:00 | ERROR | Серверная ошибка 500 для категории eye-sets, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:00 | WARNING | Не удалось получить продукты для категории Eye Sets.
+api_parsing | 2025-02-28 21:40:00 | INFO | Обрабатываем категорию: Lip (ID: lips-makeup)
+api_parsing | 2025-02-28 21:40:01 | ERROR | Серверная ошибка 500 для категории lips-makeup, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:01 | WARNING | Не удалось получить продукты для категории Lip.
+api_parsing | 2025-02-28 21:40:01 | INFO | Обрабатываем категорию: Lip Gloss (ID: lip-gloss)
+api_parsing | 2025-02-28 21:40:01 | ERROR | Серверная ошибка 500 для категории lip-gloss, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:01 | WARNING | Не удалось получить продукты для категории Lip Gloss.
+api_parsing | 2025-02-28 21:40:01 | INFO | Обрабатываем категорию: Lipstick (ID: lipstick)
+api_parsing | 2025-02-28 21:40:02 | ERROR | Серверная ошибка 500 для категории lipstick, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:02 | WARNING | Не удалось получить продукты для категории Lipstick.
+api_parsing | 2025-02-28 21:40:02 | INFO | Обрабатываем категорию: Lip Plumper (ID: lip-plumper)
+api_parsing | 2025-02-28 21:40:03 | ERROR | Серверная ошибка 500 для категории lip-plumper, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:03 | WARNING | Не удалось получить продукты для категории Lip Plumper.
+api_parsing | 2025-02-28 21:40:03 | INFO | Обрабатываем категорию: Lip Balms & Treatments (ID: lip-balm-treatments-lips-makeup)
+api_parsing | 2025-02-28 21:40:03 | ERROR | Серверная ошибка 500 для категории lip-balm-treatments-lips-makeup, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:03 | WARNING | Не удалось получить продукты для категории Lip Balms & Treatments.
+api_parsing | 2025-02-28 21:40:03 | INFO | Обрабатываем категорию: Liquid Lipstick (ID: liquid-lipstick)
+api_parsing | 2025-02-28 21:40:04 | ERROR | Серверная ошибка 500 для категории liquid-lipstick, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:04 | WARNING | Не удалось получить продукты для категории Liquid Lipstick.
+api_parsing | 2025-02-28 21:40:04 | INFO | Обрабатываем категорию: Lip Liner (ID: lip-liner-lip-pencils)
+api_parsing | 2025-02-28 21:40:05 | ERROR | Серверная ошибка 500 для категории lip-liner-lip-pencils, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:05 | WARNING | Не удалось получить продукты для категории Lip Liner.
+api_parsing | 2025-02-28 21:40:05 | INFO | Обрабатываем категорию: Lip Stain (ID: lip-stain)
+api_parsing | 2025-02-28 21:40:06 | ERROR | Серверная ошибка 500 для категории lip-stain, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:06 | WARNING | Не удалось получить продукты для категории Lip Stain.
+api_parsing | 2025-02-28 21:40:06 | INFO | Обрабатываем категорию: Lip Sets (ID: lip-palettes-gloss-sets)
+api_parsing | 2025-02-28 21:40:06 | ERROR | Серверная ошибка 500 для категории lip-palettes-gloss-sets, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:06 | WARNING | Не удалось получить продукты для категории Lip Sets.
+api_parsing | 2025-02-28 21:40:06 | INFO | Обрабатываем категорию: Cheek (ID: cheek-makeup)
+api_parsing | 2025-02-28 21:40:07 | ERROR | Серверная ошибка 500 для категории cheek-makeup, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:07 | WARNING | Не удалось получить продукты для категории Cheek.
+api_parsing | 2025-02-28 21:40:07 | INFO | Обрабатываем категорию: Blush (ID: blush)
+api_parsing | 2025-02-28 21:40:08 | ERROR | Серверная ошибка 500 для категории blush, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:08 | WARNING | Не удалось получить продукты для категории Blush.
+api_parsing | 2025-02-28 21:40:08 | INFO | Обрабатываем категорию: Bronzer (ID: bronzer-makeup)
+api_parsing | 2025-02-28 21:40:09 | ERROR | Серверная ошибка 500 для категории bronzer-makeup, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:09 | WARNING | Не удалось получить продукты для категории Bronzer.
+api_parsing | 2025-02-28 21:40:09 | INFO | Обрабатываем категорию: Cheek Palettes (ID: cheek-palettes)
+api_parsing | 2025-02-28 21:40:09 | ERROR | Серверная ошибка 500 для категории cheek-palettes, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:09 | WARNING | Не удалось получить продукты для категории Cheek Palettes.
+api_parsing | 2025-02-28 21:40:09 | INFO | Обрабатываем категорию: Makeup Value & Gift Sets (ID: makeup-kits-makeup-sets)
+api_parsing | 2025-02-28 21:40:10 | ERROR | Серверная ошибка 500 для категории makeup-kits-makeup-sets, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:10 | WARNING | Не удалось получить продукты для категории Makeup Value & Gift Sets.
+api_parsing | 2025-02-28 21:40:10 | INFO | Обрабатываем категорию: Makeup Palettes (ID: makeup-palettes)
+api_parsing | 2025-02-28 21:40:11 | ERROR | Серверная ошибка 500 для категории makeup-palettes, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:11 | WARNING | Не удалось получить продукты для категории Makeup Palettes.
+api_parsing | 2025-02-28 21:40:11 | INFO | Обрабатываем категорию: Brushes & Applicators (ID: brush-sets-makeup-brushes-applicators-makeup)
+api_parsing | 2025-02-28 21:40:12 | ERROR | Серверная ошибка 500 для категории brush-sets-makeup-brushes-applicators-makeup, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:12 | WARNING | Не удалось получить продукты для категории Brushes & Applicators.
+api_parsing | 2025-02-28 21:40:12 | INFO | Обрабатываем категорию: Accessories (ID: makeup-accessories)
+api_parsing | 2025-02-28 21:40:12 | ERROR | Серверная ошибка 500 для категории makeup-accessories, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:12 | WARNING | Не удалось получить продукты для категории Accessories.
+api_parsing | 2025-02-28 21:40:12 | INFO | Обрабатываем категорию: Nail (ID: nails-makeup)
+api_parsing | 2025-02-28 21:40:13 | ERROR | Серверная ошибка 500 для категории nails-makeup, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:13 | WARNING | Не удалось получить продукты для категории Nail.
+api_parsing | 2025-02-28 21:40:13 | INFO | Обрабатываем категорию: Clean Makeup (ID: clean-makeup)
+api_parsing | 2025-02-28 21:40:14 | ERROR | Серверная ошибка 500 для категории clean-makeup, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:14 | WARNING | Не удалось получить продукты для категории Clean Makeup.
+api_parsing | 2025-02-28 21:40:14 | INFO | Обрабатываем категорию: Vegan Makeup (ID: vegan-makeup)
+api_parsing | 2025-02-28 21:40:15 | ERROR | Серверная ошибка 500 для категории vegan-makeup, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:15 | WARNING | Не удалось получить продукты для категории Vegan Makeup.
+api_parsing | 2025-02-28 21:40:15 | INFO | Обрабатываем категорию: Mini Size (ID: mini-makeup)
+api_parsing | 2025-02-28 21:40:15 | ERROR | Серверная ошибка 500 для категории mini-makeup, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:15 | WARNING | Не удалось получить продукты для категории Mini Size.
+api_parsing | 2025-02-28 21:40:15 | INFO | Обрабатываем категорию: Skincare (ID: skincare)
+api_parsing | 2025-02-28 21:40:16 | ERROR | Серверная ошибка 500 для категории skincare, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:16 | WARNING | Не удалось получить продукты для категории Skincare.
+api_parsing | 2025-02-28 21:40:16 | INFO | Обрабатываем категорию: Moisturizers (ID: moisturizing-cream-oils-mists)
+api_parsing | 2025-02-28 21:40:17 | ERROR | Серверная ошибка 500 для категории moisturizing-cream-oils-mists, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:17 | WARNING | Не удалось получить продукты для категории Moisturizers.
+api_parsing | 2025-02-28 21:40:17 | INFO | Обрабатываем категорию: Night Creams (ID: night-cream)
+api_parsing | 2025-02-28 21:40:18 | ERROR | Серверная ошибка 500 для категории night-cream, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:18 | WARNING | Не удалось получить продукты для категории Night Creams.
+api_parsing | 2025-02-28 21:40:18 | INFO | Обрабатываем категорию: Face Oils (ID: cleansing-oil-face-oil)
+api_parsing | 2025-02-28 21:40:18 | ERROR | Серверная ошибка 500 для категории cleansing-oil-face-oil, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:18 | WARNING | Не удалось получить продукты для категории Face Oils.
+api_parsing | 2025-02-28 21:40:18 | INFO | Обрабатываем категорию: Mists & Essences (ID: face-mist-face-spray)
+api_parsing | 2025-02-28 21:40:19 | ERROR | Серверная ошибка 500 для категории face-mist-face-spray, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:19 | WARNING | Не удалось получить продукты для категории Mists & Essences.
+api_parsing | 2025-02-28 21:40:19 | INFO | Обрабатываем категорию: BB & CC Cream (ID: bb-cream-cc-cream)
+api_parsing | 2025-02-28 21:40:20 | ERROR | Серверная ошибка 500 для категории bb-cream-cc-cream, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:20 | WARNING | Не удалось получить продукты для категории BB & CC Cream.
+api_parsing | 2025-02-28 21:40:20 | INFO | Обрабатываем категорию: Cleansers (ID: cleanser)
+api_parsing | 2025-02-28 21:40:21 | ERROR | Серверная ошибка 500 для категории cleanser, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:21 | WARNING | Не удалось получить продукты для категории Cleansers.
+api_parsing | 2025-02-28 21:40:21 | INFO | Обрабатываем категорию: Face Wash & Cleansers (ID: face-wash-facial-cleanser)
+api_parsing | 2025-02-28 21:40:21 | ERROR | Серверная ошибка 500 для категории face-wash-facial-cleanser, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:21 | WARNING | Не удалось получить продукты для категории Face Wash & Cleansers.
+api_parsing | 2025-02-28 21:40:21 | INFO | Обрабатываем категорию: Exfoliators (ID: exfoliating-scrub-exfoliator)
+api_parsing | 2025-02-28 21:40:22 | ERROR | Серверная ошибка 500 для категории exfoliating-scrub-exfoliator, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:22 | WARNING | Не удалось получить продукты для категории Exfoliators.
+api_parsing | 2025-02-28 21:40:22 | INFO | Обрабатываем категорию: Makeup Removers (ID: makeup-remover-skincare)
+api_parsing | 2025-02-28 21:40:23 | ERROR | Серверная ошибка 500 для категории makeup-remover-skincare, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:23 | WARNING | Не удалось получить продукты для категории Makeup Removers.
+api_parsing | 2025-02-28 21:40:23 | INFO | Обрабатываем категорию: Face Wipes (ID: face-wipes)
+api_parsing | 2025-02-28 21:40:23 | ERROR | Серверная ошибка 500 для категории face-wipes, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:23 | WARNING | Не удалось получить продукты для категории Face Wipes.
+api_parsing | 2025-02-28 21:40:23 | INFO | Обрабатываем категорию: Toners (ID: facial-toner-skin-toner)
+api_parsing | 2025-02-28 21:40:24 | ERROR | Серверная ошибка 500 для категории facial-toner-skin-toner, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:24 | WARNING | Не удалось получить продукты для категории Toners.
+api_parsing | 2025-02-28 21:40:24 | INFO | Обрабатываем категорию: Treatments (ID: facial-treatments)
+api_parsing | 2025-02-28 21:40:25 | ERROR | Серверная ошибка 500 для категории facial-treatments, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:25 | WARNING | Не удалось получить продукты для категории Treatments.
+api_parsing | 2025-02-28 21:40:25 | INFO | Обрабатываем категорию: Face Serums (ID: face-serum)
+api_parsing | 2025-02-28 21:40:26 | ERROR | Серверная ошибка 500 для категории face-serum, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:26 | WARNING | Не удалось получить продукты для категории Face Serums.
+api_parsing | 2025-02-28 21:40:26 | INFO | Обрабатываем категорию: Blemish & Acne Treatments (ID: acne-products-acne-cream)
+api_parsing | 2025-02-28 21:40:26 | ERROR | Серверная ошибка 500 для категории acne-products-acne-cream, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:26 | WARNING | Не удалось получить продукты для категории Blemish & Acne Treatments.
+api_parsing | 2025-02-28 21:40:26 | INFO | Обрабатываем категорию: Facial Peels (ID: facial-peels)
+api_parsing | 2025-02-28 21:40:27 | ERROR | Серверная ошибка 500 для категории facial-peels, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:27 | WARNING | Не удалось получить продукты для категории Facial Peels.
+api_parsing | 2025-02-28 21:40:27 | INFO | Обрабатываем категорию: Masks (ID: face-mask)
+api_parsing | 2025-02-28 21:40:28 | ERROR | Серверная ошибка 500 для категории face-mask, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:28 | WARNING | Не удалось получить продукты для категории Masks.
+api_parsing | 2025-02-28 21:40:28 | INFO | Обрабатываем категорию: Face Masks (ID: facial-treatment-masks)
+api_parsing | 2025-02-28 21:40:29 | ERROR | Серверная ошибка 500 для категории facial-treatment-masks, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:29 | WARNING | Не удалось получить продукты для категории Face Masks.
+api_parsing | 2025-02-28 21:40:29 | INFO | Обрабатываем категорию: Sheet Masks (ID: sheet-masks)
+api_parsing | 2025-02-28 21:40:29 | ERROR | Серверная ошибка 500 для категории sheet-masks, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:29 | WARNING | Не удалось получить продукты для категории Sheet Masks.
+api_parsing | 2025-02-28 21:40:29 | INFO | Обрабатываем категорию: Eye Masks (ID: eye-mask)
+api_parsing | 2025-02-28 21:40:30 | ERROR | Серверная ошибка 500 для категории eye-mask, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:30 | WARNING | Не удалось получить продукты для категории Eye Masks.
+api_parsing | 2025-02-28 21:40:30 | INFO | Обрабатываем категорию: Eye Care (ID: eye-treatment-dark-circle-treatment)
+api_parsing | 2025-02-28 21:40:31 | ERROR | Серверная ошибка 500 для категории eye-treatment-dark-circle-treatment, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:31 | WARNING | Не удалось получить продукты для категории Eye Care.
+api_parsing | 2025-02-28 21:40:31 | INFO | Обрабатываем категорию: Eye Creams & Treatments (ID: eye-cream-dark-circles)
+api_parsing | 2025-02-28 21:40:32 | ERROR | Серверная ошибка 500 для категории eye-cream-dark-circles, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:32 | WARNING | Не удалось получить продукты для категории Eye Creams & Treatments.
+api_parsing | 2025-02-28 21:40:32 | INFO | Обрабатываем категорию: Lip Balms & Treatments (ID: lip-balm-lip-care)
+api_parsing | 2025-02-28 21:40:32 | ERROR | Серверная ошибка 500 для категории lip-balm-lip-care, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:32 | WARNING | Не удалось получить продукты для категории Lip Balms & Treatments.
+api_parsing | 2025-02-28 21:40:32 | INFO | Обрабатываем категорию: Sunscreen (ID: sunscreen-sun-protection)
+api_parsing | 2025-02-28 21:40:33 | ERROR | Серверная ошибка 500 для категории sunscreen-sun-protection, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:33 | WARNING | Не удалось получить продукты для категории Sunscreen.
+api_parsing | 2025-02-28 21:40:33 | INFO | Обрабатываем категорию: Face Sunscreen (ID: face-sunscreen)
+api_parsing | 2025-02-28 21:40:34 | ERROR | Серверная ошибка 500 для категории face-sunscreen, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:34 | WARNING | Не удалось получить продукты для категории Face Sunscreen.
+api_parsing | 2025-02-28 21:40:34 | INFO | Обрабатываем категорию: Body Sunscreen (ID: sunscreen)
+api_parsing | 2025-02-28 21:40:34 | ERROR | Серверная ошибка 500 для категории sunscreen, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:34 | WARNING | Не удалось получить продукты для категории Body Sunscreen.
+api_parsing | 2025-02-28 21:40:34 | INFO | Обрабатываем категорию: High Tech Tools (ID: skin-care-tools)
+api_parsing | 2025-02-28 21:40:35 | ERROR | Серверная ошибка 500 для категории skin-care-tools, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:35 | WARNING | Не удалось получить продукты для категории High Tech Tools.
+api_parsing | 2025-02-28 21:40:35 | INFO | Обрабатываем категорию: Wellness (ID: wellness-skincare)
+api_parsing | 2025-02-28 21:40:36 | ERROR | Серверная ошибка 500 для категории wellness-skincare, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:36 | WARNING | Не удалось получить продукты для категории Wellness.
+api_parsing | 2025-02-28 21:40:36 | INFO | Обрабатываем категорию: Supplements (ID: vitamins-for-hair-skin-nails)
+api_parsing | 2025-02-28 21:40:38 | ERROR | Серверная ошибка 500 для категории vitamins-for-hair-skin-nails, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:38 | WARNING | Не удалось получить продукты для категории Supplements.
+api_parsing | 2025-02-28 21:40:38 | INFO | Обрабатываем категорию: Feminine Care (ID: feminine-care)
+api_parsing | 2025-02-28 21:40:38 | ERROR | Серверная ошибка 500 для категории feminine-care, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:38 | WARNING | Не удалось получить продукты для категории Feminine Care.
+api_parsing | 2025-02-28 21:40:38 | INFO | Обрабатываем категорию: Acne & Blemishes (ID: acne-treatment-blemish-remover)
+api_parsing | 2025-02-28 21:40:39 | ERROR | Серверная ошибка 500 для категории acne-treatment-blemish-remover, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:39 | WARNING | Не удалось получить продукты для категории Acne & Blemishes.
+api_parsing | 2025-02-28 21:40:39 | INFO | Обрабатываем категорию: Anti-Aging (ID: anti-aging-skin-care)
+api_parsing | 2025-02-28 21:40:40 | ERROR | Серверная ошибка 500 для категории anti-aging-skin-care, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:40 | WARNING | Не удалось получить продукты для категории Anti-Aging.
+api_parsing | 2025-02-28 21:40:40 | INFO | Обрабатываем категорию: Dark Spots (ID: dark-spot-remover)
+api_parsing | 2025-02-28 21:40:41 | ERROR | Серверная ошибка 500 для категории dark-spot-remover, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:41 | WARNING | Не удалось получить продукты для категории Dark Spots.
+api_parsing | 2025-02-28 21:40:41 | INFO | Обрабатываем категорию: Pores (ID: pore-minimizing-products)
+api_parsing | 2025-02-28 21:40:41 | ERROR | Серверная ошибка 500 для категории pore-minimizing-products, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:41 | WARNING | Не удалось получить продукты для категории Pores.
+api_parsing | 2025-02-28 21:40:41 | INFO | Обрабатываем категорию: Dryness (ID: dry-skin-treatment)
+api_parsing | 2025-02-28 21:40:42 | ERROR | Серверная ошибка 500 для категории dry-skin-treatment, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:42 | WARNING | Не удалось получить продукты для категории Dryness.
+api_parsing | 2025-02-28 21:40:42 | INFO | Обрабатываем категорию: Fine Lines & Wrinkles (ID: wrinkle-cream-wrinkle-remover)
+api_parsing | 2025-02-28 21:40:43 | ERROR | Серверная ошибка 500 для категории wrinkle-cream-wrinkle-remover, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:43 | WARNING | Не удалось получить продукты для категории Fine Lines & Wrinkles.
+api_parsing | 2025-02-28 21:40:43 | INFO | Обрабатываем категорию: Dullness (ID: skin-brighteners-dull-skin-treatments)
+api_parsing | 2025-02-28 21:40:44 | ERROR | Серверная ошибка 500 для категории skin-brighteners-dull-skin-treatments, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:44 | WARNING | Не удалось получить продукты для категории Dullness.
+api_parsing | 2025-02-28 21:40:44 | INFO | Обрабатываем категорию: Clean Skincare (ID: clean-skin-care)
+api_parsing | 2025-02-28 21:40:44 | ERROR | Серверная ошибка 500 для категории clean-skin-care, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:44 | WARNING | Не удалось получить продукты для категории Clean Skincare.
+api_parsing | 2025-02-28 21:40:44 | INFO | Обрабатываем категорию: Vegan Skincare (ID: vegan-skin-care)
+api_parsing | 2025-02-28 21:40:45 | ERROR | Серверная ошибка 500 для категории vegan-skin-care, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:45 | WARNING | Не удалось получить продукты для категории Vegan Skincare.
+api_parsing | 2025-02-28 21:40:45 | INFO | Обрабатываем категорию: Skincare Value & Gift Sets (ID: skin-care-sets-travel-value)
+api_parsing | 2025-02-28 21:40:46 | ERROR | Серверная ошибка 500 для категории skin-care-sets-travel-value, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:46 | WARNING | Не удалось получить продукты для категории Skincare Value & Gift Sets.
+api_parsing | 2025-02-28 21:40:46 | INFO | Обрабатываем категорию: Mini Size (ID: mini-skincare)
+api_parsing | 2025-02-28 21:40:47 | ERROR | Серверная ошибка 500 для категории mini-skincare, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:47 | WARNING | Не удалось получить продукты для категории Mini Size.
+api_parsing | 2025-02-28 21:40:47 | INFO | Обрабатываем категорию: FSA & HSA Eligible (ID: fsa-eligible-products)
+api_parsing | 2025-02-28 21:40:47 | ERROR | Серверная ошибка 500 для категории fsa-eligible-products, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:47 | WARNING | Не удалось получить продукты для категории FSA & HSA Eligible.
+api_parsing | 2025-02-28 21:40:47 | INFO | Обрабатываем категорию: All Hair (ID: hair-products)
+api_parsing | 2025-02-28 21:40:48 | ERROR | Серверная ошибка 500 для категории hair-products, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:48 | WARNING | Не удалось получить продукты для категории All Hair.
+api_parsing | 2025-02-28 21:40:48 | INFO | Обрабатываем категорию: Shampoo & Conditioner (ID: shampoo-sulfate-free-shampoo)
+api_parsing | 2025-02-28 21:40:49 | ERROR | Серверная ошибка 500 для категории shampoo-sulfate-free-shampoo, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:49 | WARNING | Не удалось получить продукты для категории Shampoo & Conditioner.
+api_parsing | 2025-02-28 21:40:49 | INFO | Обрабатываем категорию: Conditioner (ID: conditioner-hair)
+api_parsing | 2025-02-28 21:40:50 | ERROR | Серверная ошибка 500 для категории conditioner-hair, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:50 | WARNING | Не удалось получить продукты для категории Conditioner.
+api_parsing | 2025-02-28 21:40:50 | INFO | Обрабатываем категорию: Treatments (ID: hair-products-treatments)
+api_parsing | 2025-02-28 21:40:50 | ERROR | Серверная ошибка 500 для категории hair-products-treatments, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:50 | WARNING | Не удалось получить продукты для категории Treatments.
+api_parsing | 2025-02-28 21:40:50 | INFO | Обрабатываем категорию: Hair Masks (ID: hair-masks)
+api_parsing | 2025-02-28 21:40:51 | ERROR | Серверная ошибка 500 для категории hair-masks, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:51 | WARNING | Не удалось получить продукты для категории Hair Masks.
+api_parsing | 2025-02-28 21:40:51 | INFO | Обрабатываем категорию: Leave-in Conditioner (ID: leave-in-conditioner)
+api_parsing | 2025-02-28 21:40:52 | ERROR | Серверная ошибка 500 для категории leave-in-conditioner, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:52 | WARNING | Не удалось получить продукты для категории Leave-in Conditioner.
+api_parsing | 2025-02-28 21:40:52 | INFO | Обрабатываем категорию: Hair Oil (ID: hair-oil-treatment)
+api_parsing | 2025-02-28 21:40:52 | ERROR | Серверная ошибка 500 для категории hair-oil-treatment, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:52 | WARNING | Не удалось получить продукты для категории Hair Oil.
+api_parsing | 2025-02-28 21:40:52 | INFO | Обрабатываем категорию: Scalp Treatments (ID: hair-treatment-dry-scalp-treatment)
+api_parsing | 2025-02-28 21:40:53 | ERROR | Серверная ошибка 500 для категории hair-treatment-dry-scalp-treatment, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:53 | WARNING | Не удалось получить продукты для категории Scalp Treatments.
+api_parsing | 2025-02-28 21:40:53 | INFO | Обрабатываем категорию: Hair Supplements (ID: hair-supplements)
+api_parsing | 2025-02-28 21:40:54 | ERROR | Серверная ошибка 500 для категории hair-supplements, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:54 | WARNING | Не удалось получить продукты для категории Hair Supplements.
+api_parsing | 2025-02-28 21:40:54 | INFO | Обрабатываем категорию: Hair Thinning & Hair Loss (ID: thinning-hair-loss)
+api_parsing | 2025-02-28 21:40:55 | ERROR | Серверная ошибка 500 для категории thinning-hair-loss, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:55 | WARNING | Не удалось получить продукты для категории Hair Thinning & Hair Loss.
+api_parsing | 2025-02-28 21:40:55 | INFO | Обрабатываем категорию: Hair Value & Gift Sets (ID: hair-care-sets)
+api_parsing | 2025-02-28 21:40:55 | ERROR | Серверная ошибка 500 для категории hair-care-sets, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:55 | WARNING | Не удалось получить продукты для категории Hair Value & Gift Sets.
+api_parsing | 2025-02-28 21:40:55 | INFO | Обрабатываем категорию: All Fragrance (ID: fragrance)
+api_parsing | 2025-02-28 21:40:56 | ERROR | Серверная ошибка 500 для категории fragrance, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:56 | WARNING | Не удалось получить продукты для категории All Fragrance.
+api_parsing | 2025-02-28 21:40:56 | INFO | Обрабатываем категорию: Women (ID: fragrances-for-women)
+api_parsing | 2025-02-28 21:40:57 | ERROR | Серверная ошибка 500 для категории fragrances-for-women, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:57 | WARNING | Не удалось получить продукты для категории Women.
+api_parsing | 2025-02-28 21:40:57 | INFO | Обрабатываем категорию: Perfume (ID: perfume)
+api_parsing | 2025-02-28 21:40:57 | ERROR | Серверная ошибка 500 для категории perfume, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:57 | WARNING | Не удалось получить продукты для категории Perfume.
+api_parsing | 2025-02-28 21:40:57 | INFO | Обрабатываем категорию: Rollerballs & Travel Size (ID: rollerball-perfume-roll-on-perfume)
+api_parsing | 2025-02-28 21:40:58 | ERROR | Серверная ошибка 500 для категории rollerball-perfume-roll-on-perfume, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:58 | WARNING | Не удалось получить продукты для категории Rollerballs & Travel Size.
+api_parsing | 2025-02-28 21:40:58 | INFO | Обрабатываем категорию: Body Mist & Hair Mist (ID: body-mist-hair-mist)
+api_parsing | 2025-02-28 21:40:59 | ERROR | Серверная ошибка 500 для категории body-mist-hair-mist, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:40:59 | WARNING | Не удалось получить продукты для категории Body Mist & Hair Mist.
+api_parsing | 2025-02-28 21:40:59 | INFO | Обрабатываем категорию: Men (ID: fragrances-for-men)
+api_parsing | 2025-02-28 21:41:00 | ERROR | Серверная ошибка 500 для категории fragrances-for-men, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:00 | WARNING | Не удалось получить продукты для категории Men.
+api_parsing | 2025-02-28 21:41:00 | INFO | Обрабатываем категорию: Cologne (ID: cologne)
+api_parsing | 2025-02-28 21:41:00 | ERROR | Серверная ошибка 500 для категории cologne, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:00 | WARNING | Не удалось получить продукты для категории Cologne.
+api_parsing | 2025-02-28 21:41:00 | INFO | Обрабатываем категорию: Unisex (ID: unisex-perfume-cologne)
+api_parsing | 2025-02-28 21:41:01 | ERROR | Серверная ошибка 500 для категории unisex-perfume-cologne, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:01 | WARNING | Не удалось получить продукты для категории Unisex.
+api_parsing | 2025-02-28 21:41:01 | INFO | Обрабатываем категорию: Fragrance Value & Gift Sets (ID: fragrance-value-sets-gifts)
+api_parsing | 2025-02-28 21:41:02 | ERROR | Серверная ошибка 500 для категории fragrance-value-sets-gifts, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:02 | WARNING | Не удалось получить продукты для категории Fragrance Value & Gift Sets.
+api_parsing | 2025-02-28 21:41:02 | INFO | Обрабатываем категорию: Perfume Gift Sets (ID: perfume-gift-sets)
+api_parsing | 2025-02-28 21:41:03 | ERROR | Серверная ошибка 500 для категории perfume-gift-sets, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:03 | WARNING | Не удалось получить продукты для категории Perfume Gift Sets.
+api_parsing | 2025-02-28 21:41:03 | INFO | Обрабатываем категорию: Cologne Gift Sets (ID: cologne-gift-sets)
+api_parsing | 2025-02-28 21:41:03 | ERROR | Серверная ошибка 500 для категории cologne-gift-sets, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:03 | WARNING | Не удалось получить продукты для категории Cologne Gift Sets.
+api_parsing | 2025-02-28 21:41:03 | INFO | Обрабатываем категорию: Candles & Home Scents (ID: home-fragrance-candle-gift-sets)
+api_parsing | 2025-02-28 21:41:04 | ERROR | Серверная ошибка 500 для категории home-fragrance-candle-gift-sets, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:04 | WARNING | Не удалось получить продукты для категории Candles & Home Scents.
+api_parsing | 2025-02-28 21:41:04 | INFO | Обрабатываем категорию: Candles (ID: candles)
+api_parsing | 2025-02-28 21:41:05 | ERROR | Серверная ошибка 500 для категории candles, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:05 | WARNING | Не удалось получить продукты для категории Candles.
+api_parsing | 2025-02-28 21:41:05 | INFO | Обрабатываем категорию: Diffusers (ID: diffusers)
+api_parsing | 2025-02-28 21:41:05 | ERROR | Серверная ошибка 500 для категории diffusers, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:05 | WARNING | Не удалось получить продукты для категории Diffusers.
+api_parsing | 2025-02-28 21:41:05 | INFO | Обрабатываем категорию: Floral (ID: floral-fragrances)
+api_parsing | 2025-02-28 21:41:06 | ERROR | Серверная ошибка 500 для категории floral-fragrances, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:06 | WARNING | Не удалось получить продукты для категории Floral.
+api_parsing | 2025-02-28 21:41:06 | INFO | Обрабатываем категорию: Fresh (ID: fresh-fragrances)
+api_parsing | 2025-02-28 21:41:07 | ERROR | Серверная ошибка 500 для категории fresh-fragrances, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:07 | WARNING | Не удалось получить продукты для категории Fresh.
+api_parsing | 2025-02-28 21:41:07 | INFO | Обрабатываем категорию: Warm & Spicy (ID: spicy-warm-fragrances)
+api_parsing | 2025-02-28 21:41:08 | ERROR | Серверная ошибка 500 для категории spicy-warm-fragrances, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:08 | WARNING | Не удалось получить продукты для категории Warm & Spicy.
+api_parsing | 2025-02-28 21:41:08 | INFO | Обрабатываем категорию: Earthy & Woody (ID: woody-earthy-fragrances)
+api_parsing | 2025-02-28 21:41:08 | ERROR | Серверная ошибка 500 для категории woody-earthy-fragrances, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:08 | WARNING | Не удалось получить продукты для категории Earthy & Woody.
+api_parsing | 2025-02-28 21:41:08 | INFO | Обрабатываем категорию: Clean Fragrance (ID: clean-fragrance)
+api_parsing | 2025-02-28 21:41:09 | ERROR | Серверная ошибка 500 для категории clean-fragrance, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:09 | WARNING | Не удалось получить продукты для категории Clean Fragrance.
+api_parsing | 2025-02-28 21:41:09 | INFO | Обрабатываем категорию: Vegan Fragrance (ID: vegan-fragrance)
+api_parsing | 2025-02-28 21:41:10 | ERROR | Серверная ошибка 500 для категории vegan-fragrance, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:10 | WARNING | Не удалось получить продукты для категории Vegan Fragrance.
+api_parsing | 2025-02-28 21:41:10 | INFO | Обрабатываем категорию: Mini Size (ID: mini-perfume)
+api_parsing | 2025-02-28 21:41:11 | ERROR | Серверная ошибка 500 для категории mini-perfume, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:11 | WARNING | Не удалось получить продукты для категории Mini Size.
+api_parsing | 2025-02-28 21:41:11 | INFO | Обрабатываем категорию: All Tools & Brushes (ID: makeup-tools)
+api_parsing | 2025-02-28 21:41:11 | ERROR | Серверная ошибка 500 для категории makeup-tools, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:11 | WARNING | Не удалось получить продукты для категории All Tools & Brushes.
+api_parsing | 2025-02-28 21:41:11 | INFO | Обрабатываем категорию: Brush Sets (ID: makeup-brush-sets)
+api_parsing | 2025-02-28 21:41:12 | ERROR | Серверная ошибка 500 для категории makeup-brush-sets, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:12 | WARNING | Не удалось получить продукты для категории Brush Sets.
+api_parsing | 2025-02-28 21:41:12 | INFO | Обрабатываем категорию: Face Brushes (ID: foundation-brushes-face-brushes)
+api_parsing | 2025-02-28 21:41:13 | ERROR | Серверная ошибка 500 для категории foundation-brushes-face-brushes, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:13 | WARNING | Не удалось получить продукты для категории Face Brushes.
+api_parsing | 2025-02-28 21:41:13 | INFO | Обрабатываем категорию: Eye Brushes (ID: eyeliner-brushes-eyeshadow-brushes)
+api_parsing | 2025-02-28 21:41:13 | ERROR | Серверная ошибка 500 для категории eyeliner-brushes-eyeshadow-brushes, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:13 | WARNING | Не удалось получить продукты для категории Eye Brushes.
+api_parsing | 2025-02-28 21:41:13 | INFO | Обрабатываем категорию: Lip Brushes (ID: lip-brushes-lipstick-brushes)
+api_parsing | 2025-02-28 21:41:14 | ERROR | Серверная ошибка 500 для категории lip-brushes-lipstick-brushes, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:14 | WARNING | Не удалось получить продукты для категории Lip Brushes.
+api_parsing | 2025-02-28 21:41:14 | INFO | Обрабатываем категорию: Sponges & Applicators (ID: makeup-sponges)
+api_parsing | 2025-02-28 21:41:16 | ERROR | Серверная ошибка 500 для категории makeup-sponges, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:16 | WARNING | Не удалось получить продукты для категории Sponges & Applicators.
+api_parsing | 2025-02-28 21:41:16 | INFO | Обрабатываем категорию: Brush Cleaners (ID: makeup-brush-cleaner)
+api_parsing | 2025-02-28 21:41:17 | ERROR | Серверная ошибка 500 для категории makeup-brush-cleaner, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:17 | WARNING | Не удалось получить продукты для категории Brush Cleaners.
+api_parsing | 2025-02-28 21:41:17 | INFO | Обрабатываем категорию: Facial Cleansing Brushes (ID: cleansing-brushes-tools-brushes)
+api_parsing | 2025-02-28 21:41:18 | ERROR | Серверная ошибка 500 для категории cleansing-brushes-tools-brushes, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:18 | WARNING | Не удалось получить продукты для категории Facial Cleansing Brushes.
+api_parsing | 2025-02-28 21:41:18 | INFO | Обрабатываем категорию: Hair Dryers (ID: dryers-hair-tools-accessories-tools-accessories)
+api_parsing | 2025-02-28 21:41:18 | ERROR | Серверная ошибка 500 для категории dryers-hair-tools-accessories-tools-accessories, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:18 | WARNING | Не удалось получить продукты для категории Hair Dryers.
+api_parsing | 2025-02-28 21:41:18 | INFO | Обрабатываем категорию: Straighteners & Flat Irons (ID: flatirons-stylers-hair-tools)
+api_parsing | 2025-02-28 21:41:19 | ERROR | Серверная ошибка 500 для категории flatirons-stylers-hair-tools, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:19 | WARNING | Не удалось получить продукты для категории Straighteners & Flat Irons.
+api_parsing | 2025-02-28 21:41:19 | INFO | Обрабатываем категорию: Curling Irons (ID: curling-irons-wands-hair-tools)
+api_parsing | 2025-02-28 21:41:20 | ERROR | Серверная ошибка 500 для категории curling-irons-wands-hair-tools, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:20 | WARNING | Не удалось получить продукты для категории Curling Irons.
+api_parsing | 2025-02-28 21:41:20 | INFO | Обрабатываем категорию: Brushes & Combs (ID: hair-brushes-combs-hair-tools-accessories-tools-accessories)
+api_parsing | 2025-02-28 21:41:21 | ERROR | Серверная ошибка 500 для категории hair-brushes-combs-hair-tools-accessories-tools-accessories, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:21 | WARNING | Не удалось получить продукты для категории Brushes & Combs.
+api_parsing | 2025-02-28 21:41:21 | INFO | Обрабатываем категорию: Accessories (ID: hair-accessories-hair-tools-accessories-tools-accessories)
+api_parsing | 2025-02-28 21:41:22 | ERROR | Серверная ошибка 500 для категории hair-accessories-hair-tools-accessories-tools-accessories, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:22 | WARNING | Не удалось получить продукты для категории Accessories.
+api_parsing | 2025-02-28 21:41:22 | INFO | Обрабатываем категорию: Anti-Aging (ID: anti-aging-tools)
+api_parsing | 2025-02-28 21:41:22 | ERROR | Серверная ошибка 500 для категории anti-aging-tools, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:22 | WARNING | Не удалось получить продукты для категории Anti-Aging.
+api_parsing | 2025-02-28 21:41:22 | INFO | Обрабатываем категорию: Manicure & Pedicure (ID: pedicure-tools-manicure-tools)
+api_parsing | 2025-02-28 21:41:23 | ERROR | Серверная ошибка 500 для категории pedicure-tools-manicure-tools, стр. 1. Пропускаем категорию.
+api_parsing | 2025-02-28 21:41:23 | WARNING | Не удалось получить продукты для категории Manicure & Pedicure.
+api_parsing | 2025-02-28 21:41:23 | INFO | Всего получено 0 продуктов.
+api_parsing | 2025-02-28 21:45:06 | INFO | Получены детали продукта P505624.
+api_parsing | 2025-02-28 21:46:21 | INFO | Получены детали продукта P505624.
